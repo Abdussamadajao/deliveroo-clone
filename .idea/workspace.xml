@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fa28907-431c-47c7-9e2d-ec5a6803e169" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Redux/slices/basketSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redux/slices/restaurantSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/order.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CartIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CategoryCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Catergories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/DishRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FeaturedRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/RestaurantCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/HomeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/RestaurantScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/cartScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/placeOrderScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Redux/slices/restaurantSlice.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/screens/RestaurantScreen.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2TQKdr39dbdbHt9k11Ell87NChm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.18.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/abdussamad/Desktop/landing-page-next&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/home/abdussamad/.nvm/versions/node/v16.18.1/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/abdussamad/.nvm/versions/node/v16.18.1/lib/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/abdussamad/Desktop/deliveroo-clone/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fa28907-431c-47c7-9e2d-ec5a6803e169" name="Changes" comment="" />
+      <created>1690969956721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690969956721</updated>
+      <workItem from="1690969967743" duration="243000" />
+      <workItem from="1691248761064" duration="3804000" />
+      <workItem from="1691257520752" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
